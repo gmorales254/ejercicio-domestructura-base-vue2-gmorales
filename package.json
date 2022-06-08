@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "vue2": "^1.0.0",
+    "vuetify": "^2.6.6"
+  },
+  "name": "ejercicio-domestructura-base-vue2-gmorales",
+  "description": "A Pen created on CodePen.io. Original URL: [https://codepen.io/ianaya89/pen/YzzOEjK](https://codepen.io/ianaya89/pen/YzzOEjK).",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmorales254/ejercicio-domestructura-base-vue2-gmorales.git"
+  },
+  "keywords": [
+    "vue2",
+    "javascript",
+    "platzi"
+  ],
+  "author": "gmorales254",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmorales254/ejercicio-domestructura-base-vue2-gmorales/issues"
+  },
+  "homepage": "https://github.com/gmorales254/ejercicio-domestructura-base-vue2-gmorales#readme"
+}
